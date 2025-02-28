@@ -1,0 +1,192 @@
+[
+     {
+        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+        "price": "45.89",
+        "description": "Ultra-fast cards to take better pictures and Full HD videos with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards, you'll benefit from faster downloads, high capacity, and better performance to capture and store 128GB of high-quality pictures and Full HD video. Take advantage of ultra-fast read speeds of up to 80MB/s to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices and come with a 10-year limited warranty.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/sandisk_ultra_128gb_1",
+                "url": "https://m.media-amazon.com/images/I/8194p4lS-3L.jpg"
+            },
+            {
+                "public_id": "products/sandisk_ultra_128gb_2",
+                "url": "https://m.media-amazon.com/images/I/71CETXZfxSL._AC_UF894,1000_QL80_.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Apple MacBook Pro 14-inch M3",
+        "price": "1999.99",
+        "description": "The Apple MacBook Pro 14-inch with M3 chip offers incredible speed and efficiency. Featuring a stunning Liquid Retina XDR display, a powerful GPU, and long battery life, it's ideal for professionals and creatives.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/macbook_pro_14_m3_1",
+                "url": "https://promart.vteximg.com.br/arquivos/ids/7877275-1000-1000/imageUrl_1.jpg?v=638455341783500000"
+            },
+            {
+                "public_id": "products/macbook_pro_14_m3_2",
+                "url": "https://imageservice.asgoodasnew.com/540/18643/15/title-0000.jpg"
+            },
+            {
+                "public_id": "products/macbook_pro_14_m3_3",
+                "url": "https://file.hstatic.net/200000348419/file/231031_m3_macbook_pro_1ccda5f68f174078b92203ca64520567.png"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Apple Store",
+        "stock": 30,
+        "numOfReviews": 120,
+        "reviews": []
+    },
+    {
+        "name": "Sony WH-1000XM5 Noise Cancelling Headphones",
+        "price": "349.99",
+        "description": "Sony's WH-1000XM5 headphones deliver industry-leading noise cancellation, premium sound quality, and up to 30 hours of battery life, ensuring the ultimate listening experience.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/sony_wh1000xm5_1",
+                "url": "https://m.media-amazon.com/images/I/61eeHPRFQ9L._AC_UF1000,1000_QL80_.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Best Buy",
+        "stock": 75,
+        "numOfReviews": 95,
+        "reviews": []
+    },
+    {
+        "name": "Canon EOS R6 Mirrorless Camera",
+        "price": "2499.00",
+        "description": "The Canon EOS R6 features a 20.1 MP sensor, 4K video recording, and fast autofocus, making it an excellent choice for photographers and videographers alike.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/canon_eos_r6_1",
+                "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6420/6420369_sd.jpg"
+            },
+            {
+                "public_id": "products/canon_eos_r6_2",
+                "url": "https://www.bhphotovideo.com/images/images500x500/canon_eos_r6_mirrorless_digital_1573881.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 50,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy S23 Ultra",
+        "price": "1199.99",
+        "description": "The Samsung Galaxy S23 Ultra features a powerful Snapdragon 8 Gen 2 processor, an incredible 200MP camera, and a stunning 6.8-inch Dynamic AMOLED display, making it the ultimate flagship smartphone.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/samsung_s23_ultra_1",
+                "url": "https://www.it-tunisie.tn/wp-content/uploads/2023/01/SAMSUNG-Galaxy-S23-Ultra-Noir.png.webp"
+            },
+            {
+                "public_id": "products/samsung_s23_ultra_2",
+                "url": "https://www.samsungshop.tn/24657-large_default/samsung-galaxy-s23-ultra-prix-tunisie.jpg"
+            }
+        ],
+        "category": "Smartphones",
+        "seller": "Samsung Store",
+        "stock": 25,
+        "numOfReviews": 230,
+        "reviews": []
+    },
+    {
+        "name": "LG OLED C2 55-Inch 4K Smart TV",
+        "price": "1399.99",
+        "description": "Experience the brilliance of OLED technology with the LG C2 55-inch 4K Smart TV, offering deep blacks, stunning contrast, and a 120Hz refresh rate for smooth motion.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/lg_oled_c2_1",
+                "url": "https://www.lg.com/content/dam/channel/wcms/ca_fr/images/tvs/oled55c2pua_acc_enci_ca_fr_c/gallery/DZ-01.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "LG Official Store",
+        "stock": 15,
+        "numOfReviews": 180,
+        "reviews": []
+    },
+    {
+        "name": "Bose QuietComfort 45 Wireless Headphones",
+        "price": "329.99",
+        "description": "Enjoy world-class noise cancellation and high-fidelity audio with the Bose QuietComfort 45 wireless headphones, featuring up to 24 hours of battery life.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/bose_qc45_1",
+                "url": "https://edevig.com.tn/storage/51jbshsktkl-ac-ss450-540x600.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Bose Store",
+        "stock": 40,
+        "numOfReviews": 95,
+        "reviews": []
+    },
+    {
+        "name": "Apple MacBook Air M2",
+        "price": "1099.99",
+        "description": "The Apple MacBook Air M2 delivers incredible speed and efficiency with the M2 chip, a 13.6-inch Liquid Retina display, and up to 18 hours of battery life.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/macbook_air_m2_1",
+                "url": "https://jmb.com.tn/wp-content/uploads/2025/01/macbook-air-m4-pro-prix-tunisie.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Apple Store",
+        "stock": 20,
+        "numOfReviews": 150,
+        "reviews": []
+    },
+    {
+        "name": "Sony PlayStation 5",
+        "price": "499.99",
+        "description": "Experience lightning-fast loading, stunning visuals, and innovative gaming with the Sony PlayStation 5, featuring an ultra-high-speed SSD and haptic feedback controller.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/ps5_1",
+                "url": "https://skymil-informatique.com/42705-medium_default/console-ps5-standard-chassis-d.jpg"
+            }
+        ],
+        "category": "Gaming Consoles",
+        "seller": "Sony Store",
+        "stock": 30,
+        "numOfReviews": 200,
+        "reviews": []
+    },
+    {
+        "name": "Dyson V15 Detect Cordless Vacuum",
+        "price": "699.99",
+        "description": "The Dyson V15 Detect Cordless Vacuum offers powerful suction, laser dust detection, and advanced filtration for a deep and hygienic clean.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/dyson_v15_1",
+                "url": "https://d2o7dtsnwzl7g9.cloudfront.net/lords/media/image/15/1e/7e/330V15DETECT_1.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "Dyson Store",
+        "stock": 50,
+        "numOfReviews": 120,
+        "reviews": []
+    }
+]
