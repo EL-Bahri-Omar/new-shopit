@@ -6,6 +6,9 @@ import Footer from './components/layout/Footer';
 import Home from './components/Home';
 import ProductDetails from "./components/product/ProductDetails";
 
+import Cart from "./components/cart/Cart";
+import Shipping from "./components/cart/Shipping";
+
 import Login from "./components/user/Login";
 import Register from "./components/user/Register";
 import Profile from "./components/user/Profile";
@@ -33,6 +36,11 @@ function App() {
             <Route path="/" Component={Home} exact />
             <Route path="/search/:keyword" Component={Home} />
             <Route path="/product/:id" Component={ProductDetails} exact />
+
+            <Route path="/cart" Component={Cart} exact />
+            <Route element={<ProtectedRoute />}>
+              <Route path="/shipping" element={<Shipping />} />
+            </Route>
             
             <Route path="/login" Component={Login} />
             <Route path="/register" Component={Register} />
