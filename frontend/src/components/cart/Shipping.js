@@ -1,8 +1,11 @@
 import React, { Fragment, useState } from 'react'
 import { countries } from 'countries-list'
+
 import { useNavigate } from "react-router-dom"
 
 import MetaData from "../layout/MetaData"
+
+import { CheckoutSteps } from './CheckoutSteps'
 
 import { useDispatch, useSelector } from 'react-redux'
 import { saveShippingInfo } from "../../actions/cartActions"
@@ -15,7 +18,7 @@ const Shipping = () => {
     const navigate = useNavigate();
     const { ShippingInfo } = useSelector(state => state.cart)
 
-    const [adresse, setAdresse] = useState(ShippingInfo.adresse)
+    const [address, setAddress] = useState(ShippingInfo.address)
     const [city, setCity] = useState(ShippingInfo.city)
     const [postalCode, setPostalCode] = useState(ShippingInfo.postalCode)
     const [phoneNo, setPhoneNo] = useState(ShippingInfo.phoneNo)
@@ -26,13 +29,14 @@ const Shipping = () => {
     const submitHandler = (e) => {
         e.preventDefault()
 
-        dispatch(saveShippingInfo({ adresse, city, postalCode, phoneNo, country }))
-        navigate('/confirm')
+        dispatch(saveShippingInfo({ address, city, postalCode, phoneNo, country }))
+        navigate('/order/confirm')
     }
 
     return (
         <Fragment>
             <MetaData title={'Shipping Info'} />
+            <CheckoutSteps shipping/>
 
             <div className="row wrapper">
                 <div className="col-10 col-lg-5">
@@ -44,8 +48,8 @@ const Shipping = () => {
                                 type="text"
                                 id="address_field"
                                 className="form-control"
-                                value={adresse}
-                                onChange={(e) => setAdresse(e.target.value)}
+                                value={address}
+                                onChange={(e) => setAddress(e.target.value)}
                                 required
                             />
                         </div>

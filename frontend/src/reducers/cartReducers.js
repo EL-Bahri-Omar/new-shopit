@@ -27,7 +27,13 @@ export const cartReducer = (state = { cartItems: [], shippingInfo: {} }, action)
         case SAVE_SHIPPING_INFO:
             return {
                 ...state,
-                shippingInfo: action.payload
+                shippingInfo: {
+                    address: action.payload.address,
+                    city: action.payload.city,
+                    postalCode: action.payload.postalCode,
+                    phoneNo: action.payload.phoneNo,
+                    country: action.payload.country
+                }
             }
         
         default:
