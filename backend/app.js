@@ -9,7 +9,13 @@ const dotenv = require('dotenv');
 const errorMiddleware = require('./middlewares/errors');
 
 //setting up config file 
-dotenv.config({ path : 'backend/config/config.env' });
+dotenv.config({ path: 'backend/config/config.env' });
+const cloudinary = require('cloudinary').v2;
+cloudinary.config({
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+  api_key: process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET
+});
 
 app.use(express.json());
 app.use(bodyParser.urlencoded({extended: true}));

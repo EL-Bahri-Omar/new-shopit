@@ -540,11 +540,11 @@ a[data-toggle='collapse'] {
   position: relative;
 }
 .dropdown-toggle::after {
-  display: block;
-  position: absolute;
-  top: 50%;
-  right: 20px;
-  transform: translateY(-50%);
+  display: inline-block;
+  position: static;
+  margin-left: 10px;
+  transform: none;
+  vertical-align: middle;
 }
 
 ul ul a {
