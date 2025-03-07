@@ -31,9 +31,14 @@ import Dashboard from "./components/admin/Dashboard";
 import ProductsList from "./components/admin/ProductsList";
 import NewProduct from "./components/admin/NewProduct";
 import UpdateProduct from "./components/admin/UpdateProduct";
+import OrdersList from "./components/admin/OrdersList";
+import ProcessOrder from "./components/admin/ProcessOrder";
+import UsersList from "./components/admin/UsersList";
+import UpdateUser from "./components/admin/UpdateUser";
+import ProductReviews from "./components/admin/ProductReviews";
 
 import ProtectedRoute from "./components/route/ProtectedRoute";
-import { loadUSer } from "./actions/userActions";
+import { loadUser } from "./actions/userActions";
 import { useSelector } from 'react-redux'
 import store from './store';
 import axios from "axios";
@@ -47,7 +52,7 @@ function App() {
   const [stripeApiKey, setStripeApiKey] = useState('');
 
   useEffect(() => {
-    store.dispatch(loadUSer())
+    store.dispatch(loadUser())
 
     async function getStripeApiKey() {
       const { data } = await axios.get('/api/v1/stripeapi');
@@ -110,6 +115,8 @@ function App() {
           <Route element={<ProtectedRoute isAdmin={true} />}>
               <Route path="/dashboard" element={<Dashboard />} exact />
           </Route>
+
+
           <Route element={<ProtectedRoute isAdmin={true} />}>
               <Route path="/admin/products" element={<ProductsList />} exact />
           </Route>
@@ -119,9 +126,31 @@ function App() {
           <Route element={<ProtectedRoute isAdmin={true} />}>
               <Route path="/admin/product/:productId" element={<UpdateProduct />} exact />
           </Route>
+
+          
+          <Route element={<ProtectedRoute isAdmin={true} />}>
+              <Route path="/admin/orders" element={<OrdersList />} exact />
+          </Route>
+          <Route element={<ProtectedRoute isAdmin={true} />}>
+              <Route path="/admin/order/:orderId" element={<ProcessOrder />} exact />
+          </Route>
+
+
+          <Route element={<ProtectedRoute isAdmin={true} />}>
+              <Route path="/admin/users" element={<UsersList />} exact />
+          </Route>
+          <Route element={<ProtectedRoute isAdmin={true} />}>
+              <Route path="/admin/user/:userId" element={<UpdateUser />} exact />
+          </Route>
+
+
+          <Route element={<ProtectedRoute isAdmin={true} />}>
+              <Route path="/admin/reviews" element={<ProductReviews />} exact />
+          </Route>
+
         </Routes>
         
-        {!loading && user.role !== 'admin' && (
+        {!loading && user && user.role !== 'admin' && (
             <Footer />
         )}
       </div>

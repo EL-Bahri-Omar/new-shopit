@@ -4,7 +4,7 @@ import MetaData from "../layout/MetaData"
 
 import { useAlert } from 'react-alert'
 import { useDispatch, useSelector } from 'react-redux'
-import { updateProfile, loadUSer, clearErrors } from '../../actions/userActions'
+import { updateProfile, loadUser, clearErrors } from '../../actions/userActions'
 import { UPDATE_PROFILE_RESET } from "../../constants/userConstants"
 
 const UpdateProfile = () => {
@@ -37,7 +37,7 @@ const UpdateProfile = () => {
 
         if (isUpdated) {
             alert.success('User updated successfully.');
-            dispatch(loadUSer());
+            dispatch(loadUser());
 
             navigate('/me')
 
