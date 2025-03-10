@@ -1,192 +1,631 @@
 [
-     {
-        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
-        "price": "45.89",
-        "description": "Ultra-fast cards to take better pictures and Full HD videos with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards, you'll benefit from faster downloads, high capacity, and better performance to capture and store 128GB of high-quality pictures and Full HD video. Take advantage of ultra-fast read speeds of up to 80MB/s to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices and come with a 10-year limited warranty.",
-        "ratings": 4.5,
-        "images": [
-            {
-                "public_id": "products/sandisk_ultra_128gb_1",
-                "url": "https://m.media-amazon.com/images/I/8194p4lS-3L.jpg"
-            },
-            {
-                "public_id": "products/sandisk_ultra_128gb_2",
-                "url": "https://m.media-amazon.com/images/I/71CETXZfxSL._AC_UF894,1000_QL80_.jpg"
-            }
-        ],
-        "category": "Electronics",
-        "seller": "Ebay",
-        "stock": 50,
-        "numOfReviews": 32,
-        "reviews": []
-    },
-    {
-        "name": "Apple MacBook Pro 14-inch M3",
-        "price": "1999.99",
-        "description": "The Apple MacBook Pro 14-inch with M3 chip offers incredible speed and efficiency. Featuring a stunning Liquid Retina XDR display, a powerful GPU, and long battery life, it's ideal for professionals and creatives.",
-        "ratings": 4.8,
-        "images": [
-            {
-                "public_id": "products/macbook_pro_14_m3_1",
-                "url": "https://promart.vteximg.com.br/arquivos/ids/7877275-1000-1000/imageUrl_1.jpg?v=638455341783500000"
-            },
-            {
-                "public_id": "products/macbook_pro_14_m3_2",
-                "url": "https://imageservice.asgoodasnew.com/540/18643/15/title-0000.jpg"
-            },
-            {
-                "public_id": "products/macbook_pro_14_m3_3",
-                "url": "https://file.hstatic.net/200000348419/file/231031_m3_macbook_pro_1ccda5f68f174078b92203ca64520567.png"
-            }
-        ],
-        "category": "Laptops",
-        "seller": "Apple Store",
-        "stock": 30,
-        "numOfReviews": 120,
-        "reviews": []
-    },
-    {
-        "name": "Sony WH-1000XM5 Noise Cancelling Headphones",
-        "price": "349.99",
-        "description": "Sony's WH-1000XM5 headphones deliver industry-leading noise cancellation, premium sound quality, and up to 30 hours of battery life, ensuring the ultimate listening experience.",
-        "ratings": 4.7,
-        "images": [
-            {
-                "public_id": "products/sony_wh1000xm5_1",
-                "url": "https://m.media-amazon.com/images/I/61eeHPRFQ9L._AC_UF1000,1000_QL80_.jpg"
-            }
-        ],
-        "category": "Headphones",
-        "seller": "Best Buy",
-        "stock": 75,
-        "numOfReviews": 95,
-        "reviews": []
-    },
-    {
-        "name": "Canon EOS R6 Mirrorless Camera",
-        "price": "2499.00",
-        "description": "The Canon EOS R6 features a 20.1 MP sensor, 4K video recording, and fast autofocus, making it an excellent choice for photographers and videographers alike.",
-        "ratings": 4.6,
-        "images": [
-            {
-                "public_id": "products/canon_eos_r6_1",
-                "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6420/6420369_sd.jpg"
-            },
-            {
-                "public_id": "products/canon_eos_r6_2",
-                "url": "https://www.bhphotovideo.com/images/images500x500/canon_eos_r6_mirrorless_digital_1573881.jpg"
-            }
-        ],
-        "category": "Cameras",
-        "seller": "Amazon",
-        "stock": 20,
-        "numOfReviews": 50,
-        "reviews": []
-    },
-    {
-        "name": "Samsung Galaxy S23 Ultra",
-        "price": "1199.99",
-        "description": "The Samsung Galaxy S23 Ultra features a powerful Snapdragon 8 Gen 2 processor, an incredible 200MP camera, and a stunning 6.8-inch Dynamic AMOLED display, making it the ultimate flagship smartphone.",
-        "ratings": 4.9,
-        "images": [
-            {
-                "public_id": "products/samsung_s23_ultra_1",
-                "url": "https://www.it-tunisie.tn/wp-content/uploads/2023/01/SAMSUNG-Galaxy-S23-Ultra-Noir.png.webp"
-            },
-            {
-                "public_id": "products/samsung_s23_ultra_2",
-                "url": "https://www.samsungshop.tn/24657-large_default/samsung-galaxy-s23-ultra-prix-tunisie.jpg"
-            }
-        ],
-        "category": "Smartphones",
-        "seller": "Samsung Store",
-        "stock": 25,
-        "numOfReviews": 230,
-        "reviews": []
-    },
-    {
-        "name": "LG OLED C2 55-Inch 4K Smart TV",
-        "price": "1399.99",
-        "description": "Experience the brilliance of OLED technology with the LG C2 55-inch 4K Smart TV, offering deep blacks, stunning contrast, and a 120Hz refresh rate for smooth motion.",
-        "ratings": 4.8,
-        "images": [
-            {
-                "public_id": "products/lg_oled_c2_1",
-                "url": "https://www.lg.com/content/dam/channel/wcms/ca_fr/images/tvs/oled55c2pua_acc_enci_ca_fr_c/gallery/DZ-01.jpg"
-            }
-        ],
-        "category": "Electronics",
-        "seller": "LG Official Store",
-        "stock": 15,
-        "numOfReviews": 180,
-        "reviews": []
-    },
-    {
-        "name": "Bose QuietComfort 45 Wireless Headphones",
-        "price": "329.99",
-        "description": "Enjoy world-class noise cancellation and high-fidelity audio with the Bose QuietComfort 45 wireless headphones, featuring up to 24 hours of battery life.",
-        "ratings": 4.7,
-        "images": [
-            {
-                "public_id": "products/bose_qc45_1",
-                "url": "https://edevig.com.tn/storage/51jbshsktkl-ac-ss450-540x600.jpg"
-            }
-        ],
-        "category": "Headphones",
-        "seller": "Bose Store",
-        "stock": 40,
-        "numOfReviews": 95,
-        "reviews": []
-    },
-    {
-        "name": "Apple MacBook Air M2",
-        "price": "1099.99",
-        "description": "The Apple MacBook Air M2 delivers incredible speed and efficiency with the M2 chip, a 13.6-inch Liquid Retina display, and up to 18 hours of battery life.",
-        "ratings": 4.9,
-        "images": [
-            {
-                "public_id": "products/macbook_air_m2_1",
-                "url": "https://jmb.com.tn/wp-content/uploads/2025/01/macbook-air-m4-pro-prix-tunisie.jpg"
-            }
-        ],
-        "category": "Laptops",
-        "seller": "Apple Store",
-        "stock": 20,
-        "numOfReviews": 150,
-        "reviews": []
-    },
-    {
-        "name": "Sony PlayStation 5",
-        "price": "499.99",
-        "description": "Experience lightning-fast loading, stunning visuals, and innovative gaming with the Sony PlayStation 5, featuring an ultra-high-speed SSD and haptic feedback controller.",
-        "ratings": 4.8,
-        "images": [
-            {
-                "public_id": "products/ps5_1",
-                "url": "https://skymil-informatique.com/42705-medium_default/console-ps5-standard-chassis-d.jpg"
-            }
-        ],
-        "category": "Gaming Consoles",
-        "seller": "Sony Store",
-        "stock": 30,
-        "numOfReviews": 200,
-        "reviews": []
-    },
-    {
-        "name": "Dyson V15 Detect Cordless Vacuum",
-        "price": "699.99",
-        "description": "The Dyson V15 Detect Cordless Vacuum offers powerful suction, laser dust detection, and advanced filtration for a deep and hygienic clean.",
-        "ratings": 4.7,
-        "images": [
-            {
-                "public_id": "products/dyson_v15_1",
-                "url": "https://d2o7dtsnwzl7g9.cloudfront.net/lords/media/image/15/1e/7e/330V15DETECT_1.jpg"
-            }
-        ],
-        "category": "Home",
-        "seller": "Dyson Store",
-        "stock": 50,
-        "numOfReviews": 120,
-        "reviews": []
-    }
+
+  {
+    "name": "Apple MacBook Pro 14-inch M3",
+    "price": "1999.99",
+    "description": "The Apple MacBook Pro 14-inch with M3 chip offers incredible speed and efficiency. Featuring a stunning Liquid Retina XDR display, a powerful GPU, and long battery life, it's ideal for professionals and creatives.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/laptops/mac1_ktv953", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741434986/mac1_ktv953.jpg" },
+      { "public_id": "products/laptops/mac2_ycfg3j", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741434987/mac3_ycfg3j.jpg" },
+      { "public_id": "products/laptops/mac3_evydee", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741434986/mac2_evydee.jpg" }
+    ],
+    "category": "Laptops",
+    "seller": "Apple Store",
+    "stock": 30,
+    "numOfReviews": 120,
+    "reviews": []
+  },
+  {
+    "name": "Dell XPS 15",
+    "price": "1799.99",
+    "description": "Sleek 15.6-inch laptop with OLED display, Intel Core i7, and RTX graphics for creators.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/laptops/dell1_hjrf7w", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741437594/dell1_hjrf7w.jpg" },
+      { "public_id": "products/laptops/dell2_ult7fq", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741437594/dell3_ult7fq.jpg" },
+      { "public_id": "products/laptops/dell3_lxpjnq", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741437594/dell2_lxpjnq.jpg" }
+    ],
+    "category": "Laptops",
+    "seller": "Dell Store",
+    "stock": 45,
+    "numOfReviews": 90,
+    "reviews": []
+  },
+  {
+    "name": "HP Spectre x360",
+    "price": "1499.99",
+    "description": "Convertible 2-in-1 laptop with 13.5-inch 3K display, Intel Evo platform, and all-day battery.",
+    "ratings": 4.3,
+    "images": [
+      { "public_id": "products/laptops/hp1_eahxt0", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741437787/hp1_eahxt0.jpg" },
+      { "public_id": "products/laptops/hp2_xl9wgn", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741437788/hp2_xl9wgn.jpg" }
+    ],
+    "category": "Laptops",
+    "seller": "HP Store",
+    "stock": 35,
+    "numOfReviews": 85,
+    "reviews": []
+  },
+
+
+  
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "price": "699.99",
+    "description": "Powerful Android tablet with S Pen, 120Hz AMOLED display, and Snapdragon 8 Gen 1 chip for productivity and creativity.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/electronics/tab1_rhsk7i", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438358/tab1_rhsk7i.jpg" },
+      { "public_id": "products/electronics/tab2_nbwi0c", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438358/tab2_nbwi0c.jpg" },
+      { "public_id": "products/electronics/tab3_tluz7c", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438359/tab3_tluz7c.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "Samsung Store",
+    "stock": 75,
+    "numOfReviews": 180,
+    "reviews": []
+  },{
+    "name": "Keurig K-Elite Coffee Maker",
+    "price": "129.99",
+    "description": "Single-serve brewer with 5 cup sizes, iced coffee setting, and a strong brew option.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/home/coffee1_cnjdib", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441351/coffee1_cnjdib.webp" },
+      { "public_id": "products/home/coffee2_yfdqbe", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441353/coffee2_yfdqbe.jpg" }
+    ],
+    "category": "Home",
+    "seller": "Keurig",
+    "stock": 90,
+    "numOfReviews": 150,
+    "reviews": []
+  },
+
+
+  {
+    "name": "Sony Alpha 7 IV Mirrorless Camera",
+    "price": "2499.99",
+    "description": "Full-frame mirrorless camera with 33MP sensor, 4K video, and real-time eye autofocus for professionals.",
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/cameras/sony_alpha1_pfncw8", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438574/sony_alpha1_pfncw8.jpg" },
+      { "public_id": "products/cameras/sony_alpha2_tvoy4h", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438574/sony_alpha2_tvoy4h.webp" }
+    ],
+    "category": "Cameras",
+    "seller": "Sony Store",
+    "stock": 20,
+    "numOfReviews": 75,
+    "reviews": []
+  },
+  {
+    "name": "Canon EOS Rebel T8i",
+    "price": "899.99",
+    "description": "Entry-level DSLR with 24.1MP sensor, 4K video, and guided UI for photography beginners.",
+    "ratings": 4.4,
+    "images": [
+      { "public_id": "products/cameras/canon1_v3wp3q", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438710/canon1_v3wp3q.jpg" },
+      { "public_id": "products/cameras/canon2_dngctp", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438710/canon2_dngctp.webp" }
+    ],
+    "category": "Cameras",
+    "seller": "Canon Store",
+    "stock": 40,
+    "numOfReviews": 60,
+    "reviews": []
+  },
+  {
+    "name": "GoPro Hero 11 Black",
+    "price": "399.99",
+    "description": "Action camera with 5.3K video, HyperSmooth 5.0 stabilization, and waterproof design for adventurers.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/cameras/gopro_ajfc5o", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438787/gopro_ajfc5o.webp" }
+    ],
+    "category": "Cameras",
+    "seller": "GoPro",
+    "stock": 100,
+    "numOfReviews": 120,
+    "reviews": []
+  },
+
+
+  {
+    "name": "iPhone 15 Pro Max",
+    "price": "1199.99",
+    "description": "Titanium design, A17 Pro chip, and 48MP camera with 5x optical zoom. Redefining mobile performance.",
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/smartphones/iphone15_1_wjrdlh", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438874/iphone15_1_wjrdlh.png" },
+      { "public_id": "products/smartphones/iphone15_2_scpjvd", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438875/iphone15_2_scpjvd.jpg" }
+    ],
+    "category": "Smartphones",
+    "seller": "Apple Store",
+    "stock": 80,
+    "numOfReviews": 250,
+    "reviews": []
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": "1299.99",
+    "description": "6.8-inch Dynamic AMOLED, Snapdragon 8 Gen 3, and 200MP camera with Space Zoom.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/smartphones/s24ultra1_gg6ury", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438977/s24ultra1_gg6ury.jpg" },
+      { "public_id": "products/smartphones/s24ultra2_d9crcu", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438978/s24ultra2_d9crcu.jpg" }
+    ],
+    "category": "Smartphones",
+    "seller": "Samsung Store",
+    "stock": 60,
+    "numOfReviews": 180,
+    "reviews": []
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "price": "999.99",
+    "description": "AI-powered camera, Tensor G3 chip, and 120Hz LTPO display for seamless Android experiences.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/smartphones/pixel_vq2klc", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438976/pixel_vq2klc.jpg" }
+    ],
+    "category": "Smartphones",
+    "seller": "Google Store",
+    "stock": 90,
+    "numOfReviews": 150,
+    "reviews": []
+  },
+
+
+
+  {
+    "name": "Apple AirTag",
+    "price": "29.00",
+    "description": "Track your belongings with precision using Ultra-Wideband technology and the Find My app.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/accessories/airdrag_esq68z", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439198/airdrag_esq68z.jpg" }
+    ],
+    "category": "Accessories",
+    "seller": "Apple Store",
+    "stock": 300,
+    "numOfReviews": 500,
+    "reviews": []
+  },
+  {
+    "name": "Anker 737 Power Bank",
+    "price": "79.99",
+    "description": "140W GaN charger with 24,000mAh capacity, USB-C PD, and a digital display for travelers.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/accessories/anker1_bp9q7u", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439199/anker1_bp9q7u.jpg" },
+      { "public_id": "products/accessories/anker2_j0naxr", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439201/anker2_j0naxr.jpg" }
+    ],
+    "category": "Accessories",
+    "seller": "Anker",
+    "stock": 150,
+    "numOfReviews": 200,
+    "reviews": []
+  },
+  {
+    "name": "Logitech MX Keys Wireless Keyboard",
+    "price": "99.99",
+    "description": "Backlit ergonomic keyboard with multi-device pairing and comfortable typing for professionals.",
+    "ratings": 4.4,
+    "images": [
+      { "public_id": "products/accessories/logitech1_b24yjh", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439202/logitech1_b24yjh.webp" },
+      { "public_id": "products/accessories/logitech2_c7vjpv", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439203/logitech2_c7vjpv.jpg" }
+    ],
+    "category": "Accessories",
+    "seller": "Logitech",
+    "stock": 100,
+    "numOfReviews": 150,
+    "reviews": []
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "price": "399.99",
+    "description": "The latest Apple Watch with advanced health monitoring, GPS, and a bright Always-On Retina display. Perfect for fitness enthusiasts.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/accessories/watch1_zw96xk", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741437897/watch1_zw96xk.jpg" },
+      { "public_id": "products/accessories/watch2_kyof0i", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741437898/watch2_kyof0i.jpg" }
+    ],
+    "category": "Accessories",
+    "seller": "Apple Store",
+    "stock": 50,
+    "numOfReviews": 200,
+    "reviews": []
+  },
+  {
+    "name": "Amazon Echo Dot (5th Gen)",
+    "price": "49.99",
+    "description": "Smart speaker with Alexa, crisp sound, and built-in temperature sensor. Control your smart home effortlessly.",
+    "ratings": 4.2,
+    "images": [
+      { "public_id": "products/accessories/dot_zzrrck", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741438146/dot_zzrrck.jpg" }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 200,
+    "numOfReviews": 150,
+    "reviews": []
+  },
+
+
+
+  {
+    "name": "Sony WH-1000XM5",
+    "price": "399.99",
+    "description": "Noise-canceling over-ear headphones with 30-hour battery, LDAC, and crystal-clear sound.",
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/headphones/sony1_m2aerp", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439498/sony1_m2aerp.jpg" },
+      { "public_id": "products/headphones/sony2_rhx4mf", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439498/sony2_rhx4mf.jpg" },
+      { "public_id": "products/headphones/sony3_b82a9n", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439499/sony3_b82a9n.webp" }
+    ],
+    "category": "Headphones",
+    "seller": "Sony Store",
+    "stock": 80,
+    "numOfReviews": 300,
+    "reviews": []
+  },
+  {
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "price": "249.00",
+    "description": "Active noise cancellation, spatial audio, and sweat resistance for an immersive listening experience.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/headphones/airpods1_crqnbt", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439493/airpods1_crqnbt.jpg" },
+      { "public_id": "products/headphones/airpods2_zxdh6h", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439494/airpods2_zxdh6h.jpg" }
+    ],
+    "category": "Headphones",
+    "seller": "Apple Store",
+    "stock": 150,
+    "numOfReviews": 400,
+    "reviews": []
+  },
+  {
+    "name": "Bose QuietComfort Earbuds II",
+    "price": "299.00",
+    "description": "Premium noise cancellation, customizable sound, and secure-fit design for all-day comfort.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/headphones/bose_j8baxv", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439498/bose_j8baxv.webp" }
+    ],
+    "category": "Headphones",
+    "seller": "Bose",
+    "stock": 90,
+    "numOfReviews": 180,
+    "reviews": []
+  },
+
+
+  {
+    "name": "Starbucks Dark Roast Coffee Beans",
+    "price": "12.99",
+    "description": "1lb bag of bold, smoky dark roast coffee beans for rich espresso or drip brewing.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/food/starbucks_g1rnbz", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439793/starbucks_g1rnbz.jpg" }
+    ],
+    "category": "Food",
+    "seller": "Starbucks",
+    "stock": 200,
+    "numOfReviews": 150,
+    "reviews": []
+  },
+  {
+    "name": "KIND Dark Chocolate Nuts & Sea Salt Bars",
+    "price": "24.99",
+    "description": "Gluten-free snack bars with almonds, dark chocolate, and a touch of sea salt.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/food/kind_oxtr1w", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439791/kind_oxtr1w.jpg" }
+    ],
+    "category": "Food",
+    "seller": "KIND",
+    "stock": 150,
+    "numOfReviews": 120,
+    "reviews": []
+  },
+  {
+    "name": "Ben & Jerry’s Chocolate Fudge Brownie Ice Cream",
+    "price": "5.99",
+    "description": "Creamy vanilla ice cream with fudge brownies and chocolate swirls. Non-GMO and Fairtrade.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/food/icecream_hhavai", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439790/icecream_hhavai.webp" }
+    ],
+    "category": "Food",
+    "seller": "Ben & Jerry’s",
+    "stock": 300,
+    "numOfReviews": 250,
+    "reviews": []
+  },
+
+
+  {
+    "name": "Atomic Habits by James Clear",
+    "price": "14.99",
+    "description": "A guide to building good habits and breaking bad ones through tiny changes.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/books/book1_uuetn9", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439984/book1_uuetn9.jpg" }
+    ],
+    "category": "Books",
+    "seller": "Amazon Books",
+    "stock": 100,
+    "numOfReviews": 500,
+    "reviews": []
+  },
+  {
+    "name": "The Midnight Library by Matt Haig",
+    "price": "12.99",
+    "description": "A novel about regret, hope, and the choices that define us, set in a magical library.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/books/book2_m6dabq", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439986/book2_m6dabq.jpg" }
+    ],
+    "category": "Books",
+    "seller": "Barnes & Noble",
+    "stock": 100,
+    "numOfReviews": 300,
+    "reviews": []
+  },
+  {
+    "name": "Dune by Frank Herbert",
+    "price": "18.99",
+    "description": "Sci-fi classic set in a distant future of interstellar empires, spice, and destiny.",
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/books/book3_rufeli", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741439987/book3_rufeli.jpg" }
+    ],
+    "category": "Books",
+    "seller": "Penguin Books",
+    "stock": 100,
+    "numOfReviews": 400,
+    "reviews": []
+  },
+
+
+  {
+    "name": "Nike Air Max 270",
+    "price": "160.00",
+    "description": "Iconic sneakers with Max Air cushioning, breathable mesh, and retro-inspired design.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/colthes_shoes/nike1_em4ny7", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440239/nike1_em4ny7.webp" },
+      { "public_id": "products/colthes_shoes/nike2_fuh2gz", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440242/nike2_fuh2gz.webp" }
+    ],
+    "category": "Clothes/shoes",
+    "seller": "Nike",
+    "stock": 120,
+    "numOfReviews": 200,
+    "reviews": []
+  },
+  {
+    "name": "Levi’s 501 Original Fit Jeans",
+    "price": "59.99",
+    "description": "Timeless denim jeans with button fly, straight leg, and durable cotton construction.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/colthes_shoes/jeans_laq4ih", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440238/jeans_laq4ih.webp" }
+    ],
+    "category": "Clothes/shoes",
+    "seller": "Levi’s",
+    "stock": 200,
+    "numOfReviews": 150,
+    "reviews": []
+  },
+  {
+    "name": "Adidas Ultraboost 5.0 DNA",
+    "price": "180.00",
+    "description": "Running shoes with Boost midsole, Primeknit upper, and responsive energy return.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/colthes_shoes/adidas1_tyjtm4", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440235/adidas1_tyjtm4.webp" },
+      { "public_id": "products/colthes_shoes/adidas2_zbjnoc", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440236/adidas2_zbjnoc.jpg" }
+    ],
+    "category": "Clothes/shoes",
+    "seller": "Adidas",
+    "stock": 90,
+    "numOfReviews": 180,
+    "reviews": []
+  },
+
+
+  {
+    "name": "CeraVe Moisturizing Cream",
+    "price": "18.99",
+    "description": "Hydrating cream with ceramides and hyaluronic acid for dry to very dry skin.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/beauty_health/cream_idlq8a", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440508/cream_idlq8a.webp" }
+    ],
+    "category": "Beauty/Health",
+    "seller": "CeraVe",
+    "stock": 300,
+    "numOfReviews": 400,
+    "reviews": []
+  },
+  {
+    "name": "Oral-B iO Series 9 Electric Toothbrush",
+    "price": "129.99",
+    "description": "Smart toothbrush with AI tracking, 3D cleaning, and a interactive display.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/beauty_health/oral_erus75", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440512/oral_erus75.webp" }
+    ],
+    "category": "Beauty/Health",
+    "seller": "Oral-B",
+    "stock": 150,
+    "numOfReviews": 250,
+    "reviews": []
+  },
+  {
+    "name": "Olay Regenerist Retinol24 Night Moisturizer",
+    "price": "29.99",
+    "description": "Anti-aging night cream with retinol and vitamin B3 for smoother, brighter skin.",
+    "ratings": 4.4,
+    "images": [
+      { "public_id": "products/beauty_health/olay_txikfb", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440510/olay_txikfb.jpg" }
+    ],
+    "category": "Beauty/Health",
+    "seller": "Olay",
+    "stock": 250,
+    "numOfReviews": 180,
+    "reviews": []
+  },
+
+
+  {
+    "name": "Manduka PRO Yoga Mat",
+    "price": "29.99",
+    "description": "Eco-friendly, non-slip yoga mat with 6mm thickness for cushioning and durability.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/sports/maduka1_uu2wvs", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440769/maduka1_uu2wvs.jpg" },
+      { "public_id": "products/sports/maduka2_xxri4k", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440771/maduka2_xxri4k.jpg" }
+    ],
+    "category": "Sports",
+    "seller": "Manduka",
+    "stock": 180,
+    "numOfReviews": 150,
+    "reviews": []
+  },
+  {
+    "name": "Spalding NBA Street Basketball",
+    "price": "49.99",
+    "description": "Durable outdoor basketball with deep channels for superior grip and control.",
+    "ratings": 4.5,
+    "images": [
+      { "public_id": "products/sports/ball_qvvw7v", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440764/ball_qvvw7v.webp" }
+    ],
+    "category": "Sports",
+    "seller": "Spalding",
+    "stock": 75,
+    "numOfReviews": 90,
+    "reviews": []
+  },
+  {
+    "name": "Bowflex SelectTech 552 Dumbbells",
+    "price": "129.99",
+    "description": "Adjustable dumbbells (5-52.5 lbs) with space-saving design for home gyms.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/sports/bowflex1_cgwbos", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440765/bowflex1_cgwbos.jpg" },
+      { "public_id": "products/sports/bowflex2_i2fbvx", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741440767/bowflex2_i2fbvx.webp" }
+    ],
+    "category": "Sports",
+    "seller": "Bowflex",
+    "stock": 50,
+    "numOfReviews": 120,
+    "reviews": []
+  },
+
+
+  {
+    "name": "Hydro Flask 32 oz Wide Mouth Water Bottle",
+    "price": "44.99",
+    "description": "Insulated stainless steel bottle keeps drinks cold for 24 hours or hot for 12.",
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/outdoor/hydro_ketdmc", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441030/hydro_ketdmc.png" }
+    ],
+    "category": "Outdoor",
+    "seller": "Hydro Flask",
+    "stock": 130,
+    "numOfReviews": 200,
+    "reviews": []
+  },
+  {
+    "name": "Coleman Sundome 4-Person Tent",
+    "price": "199.99",
+    "description": "Weatherproof camping tent with easy setup, 4-person capacity, and mesh ventilation.",
+    "ratings": 4.4,
+    "images": [
+      { "public_id": "products/outdoor/tent_rxfxu9", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441032/tent_rxfxu9.webp" }
+    ],
+    "category": "Outdoor",
+    "seller": "Coleman",
+    "stock": 45,
+    "numOfReviews": 85,
+    "reviews": []
+  },
+
+
+  {
+    "name": "Dyson V15 Detect Cordless Vacuum",
+    "price": "599.99",
+    "description": "Laser-detected dust, HEPA filtration, and 60-minute runtime for deep cleaning.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/home/vacuum_bivmqi", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441431/vacuum_bivmqi.jpg" }
+    ],
+    "category": "Home",
+    "seller": "Dyson",
+    "stock": 70,
+    "numOfReviews": 250,
+    "reviews": []
+  },
+  {
+    "name": "Philips Hue White & Color Ambiance Smart Bulb",
+    "price": "199.99",
+    "description": "16 million colors, voice control, and app-based scheduling for smart lighting.",
+    "ratings": 4.6,
+    "images": [
+      { "public_id": "products/home/amb1_y52dsk", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441427/amb1_y52dsk.webp" },
+      { "public_id": "products/home/amb2_zm0fol", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441429/amb2_zm0fol.webp" }
+    ],
+    "category": "Home",
+    "seller": "Philips",
+    "stock": 120,
+    "numOfReviews": 180,
+    "reviews": []
+  },
+  
+
+
+  {
+    "name": "PlayStation 5",
+    "price": "499.99",
+    "description": "4K gaming console with ultra-high-speed SSD, ray tracing, and DualSense controller.",
+    "ratings": 4.9,
+    "images": [
+      { "public_id": "products/game_consoles/play5_1_glxjii", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441642/play5_1_glxjii.webp" },
+      { "public_id": "products/game_consoles/play5_2_huoqun", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441644/play5_2_huoqun.jpg" }
+    ],
+    "category": "Gaming Consoles",
+    "seller": "Sony",
+    "stock": 60,
+    "numOfReviews": 500,
+    "reviews": []
+  },
+  {
+    "name": "Xbox Series X",
+    "price": "499.99",
+    "description": "12 Teraflop GPU, Quick Resume, and backward compatibility for immersive gaming.",
+    "ratings": 4.8,
+    "images": [
+      { "public_id": "products/game_consoles/xbox1_asybhh", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441646/xbox1_asybhh.webp" },
+      { "public_id": "products/game_consoles/xbox2_odpynb", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441648/xbox2_odpynb.webp" }
+    ],
+    "category": "Gaming Consoles",
+    "seller": "Microsoft",
+    "stock": 55,
+    "numOfReviews": 450,
+    "reviews": []
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "price": "299.99",
+    "description": "7-inch OLED screen, enhanced audio, and dock with wired LAN port for handheld or TV play.",
+    "ratings": 4.7,
+    "images": [
+      { "public_id": "products/game_consoles/nitendo_khnork", "url": "https://res.cloudinary.com/mern-shopit/image/upload/v1741441640/nitendo_khnork.jpg" }
+    ],
+    "category": "Gaming Consoles",
+    "seller": "Nintendo",
+    "stock": 100,
+    "numOfReviews": 300,
+    "reviews": []
+  }
 ]
